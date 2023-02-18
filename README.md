@@ -1,3 +1,8 @@
+<h3 align="center">
+
+      “幻想终究破灭，实践才是真理”
+</h3>
+
 ## Pull Request Required!!
 How to fix this [workflow](https://github.com/7777777-4547/GlowingOreOutlined/actions/runs/4175452855/workflow).
 
