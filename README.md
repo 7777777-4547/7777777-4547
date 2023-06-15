@@ -1,8 +1,3 @@
-<h3 align="center">
-
-      “幻想终究破灭，实践才是真理”
-</h3>
-
 ## Plan📅
 ### Resourcepack:
 - Glowing all format with PBR(labPBR format).
