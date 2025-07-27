@@ -6,6 +6,6 @@
 ## Plan📅
 ### Resourcepack:
 - [ ] [Glowing](https://github.com/7777777-4547/Glowing/issues/2)
-- Make a GUI resourcepack.
-  - [ ] Debug resourcepack will be finished it frist.
+- ~~Make a GUI resourcepack.~~
+  - [ ] ~~Debug resourcepack will be finished it frist.~~
 - [ ] Glowing Extra.
